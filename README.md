@@ -4,11 +4,12 @@
  * @Author: xiaona.li
  * @Date: 2023-01-09 15:45:51
  * @LastEditors: xiaona.li
- * @LastEditTime: 2023-01-09 15:56:19
+ * @LastEditTime: 2023-01-09 16:21:44
 -->
 ### Hi👋 你还能通过以下来了解我
 
-- [lofter: 旧梦杂记](https://monkeydxn.lofter.com/)
+- [lofter: 旧梦杂记](https://monkeydxn.lofter.com)
+- [CSDN: Lee敢敢](https://blog.csdn.net/qq_47000934)
 
 <!--
 **MonkeyDxn/MonkeyDxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
