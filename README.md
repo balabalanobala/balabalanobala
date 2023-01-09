@@ -1,4 +1,14 @@
-### Hi there 👋
+<!--
+ * @Description: Do not edit
+ * @Version: 1.0.0
+ * @Author: xiaona.li
+ * @Date: 2023-01-09 15:45:51
+ * @LastEditors: xiaona.li
+ * @LastEditTime: 2023-01-09 15:56:19
+-->
+### Hi👋 你还能通过以下来了解我
+
+- [lofter: 旧梦杂记](https://monkeydxn.lofter.com/)
 
 <!--
 **MonkeyDxn/MonkeyDxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
