@@ -8,8 +8,9 @@
 -->
 ### Hi👋 你还能通过以下来了解我
 
-- [lofter: 旧梦杂记](https://monkeydxn.lofter.com)
 - [CSDN: Lee敢敢](https://blog.csdn.net/qq_47000934)
+- [gitee: balabalanobala](https://gitee.com/balabalanobala)
+- [lofter: 旧梦杂记](https://monkeydxn.lofter.com)
 
 <!--
 **MonkeyDxn/MonkeyDxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
